@@ -1,0 +1,162 @@
+{
+  "totalTraffic": "216GB",
+  "totalNewGuests": 104,
+  "totalGuests": 601,
+  "totalConnections": 772,
+  "numberOfImpressions": 2194,
+  "devicePlatforms": [
+    [
+      "AndroidOS",
+      581
+    ],
+    [
+      "iOS",
+      82
+    ],
+    [
+      "Windows",
+      14
+    ],
+    [
+      "Linux",
+      1
+    ],
+    [
+      "OS X",
+      1
+    ]
+  ],
+  "deviceVendors": [
+    [
+      "Unknown",
+      562
+    ],
+    [
+      "iPhone",
+      82
+    ],
+    [
+      "Samsung",
+      17
+    ],
+    [
+      "HTC",
+      9
+    ],
+    [
+      "Motorola",
+      4
+    ],
+    [
+      "Other",
+      5
+    ]
+  ],
+  "numberOfMaxOnlineGuests": 303,
+  "uniqueLogins": 679,
+  "onlineGuests": [
+    94,
+    92,
+    80,
+    77,
+    68,
+    84,
+    134,
+    219,
+    254,
+    275,
+    303,
+    248,
+    89,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "newGuests": [
+    2,
+    8,
+    4,
+    3,
+    2,
+    5,
+    6,
+    18,
+    7,
+    14,
+    14,
+    13,
+    8,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "guestConnections": [
+    21,
+    29,
+    24,
+    20,
+    14,
+    36,
+    79,
+    127,
+    78,
+    64,
+    95,
+    51,
+    41,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "guestTraffic": [
+    1.45,
+    3.45,
+    11.28,
+    3.91,
+    8.7,
+    7.61,
+    51.46,
+    55.15,
+    11.74,
+    42.29,
+    15.52,
+    2.49,
+    0.53,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "numberOfOnlineGuests": 142
+}
